@@ -1,12 +1,11 @@
 # Dr. Md. Khaliluzzaman,
-**Associate Professor** Department of Computer Science and Engineering (CSE)  
+**Associate Professor**, Department of Computer Science and Engineering (CSE)  
 International Islamic University Chittagong (IIUC)  
-📧 khalil@iiuc.ac.bd | 📍 Office: Room# 406, Department of CSE (Main building), IIUC, Kumira, Chattogram, Bangladesh
+📧 khalil@iiuc.ac.bd , khalilcse021@gmail.com | 📍 Office: Room# 406, Department of CSE (Main building), IIUC, Kumira, Chattogram, Bangladesh
 
 ---
-
 ## 📢 Eid vacation is going on. For any updates, please contact me on WhatsApp or Telegram [**Thesis students only**].
-
+---
 ### 🗓️ Office Hours & Schedule
 * **Current Semester:** Spring 2026
 * **Office Hours:** Saturday (10.00 AM to 4.15 PM), Sunday and Monday (8.00 PM to 1.30 PM), Wednessday (10.00 AM to 4.15 PM), and Friday (9.00 AM to 5.45 PM)
