@@ -1,19 +1,25 @@
-# Md. Khaliluzzaman, Ph. D.
+# Md. Khaliluzzaman, Ph.D.
 **Associate Professor**, Department of Computer Science and Engineering (CSE)  
 International Islamic University Chittagong (IIUC)  
-📧 khalil@iiuc.ac.bd , khalilcse021@gmail.com | 📍 Office: Room# 406, Department of CSE (Main building), IIUC, Kumira, Chattogram, Bangladesh
+📧 [khalil@iiuc.ac.bd](mailto:khalil@iiuc.ac.bd) , [khalilcse021@gmail.com](mailto:khalilcse021@gmail.com) | 📍 Office: Room# 406, Department of CSE (Main building), IIUC, Kumira, Chattogram, Bangladesh
 
 ---
+
 ## 📢 Eid vacation is going on. For any updates, please contact me on WhatsApp or Telegram [**Thesis students only**].
+
 ---
+
 ### 🗓️ Office Hours & Schedule
 * **Current Semester:** Spring 2026
-* **Office Hours:** Saturday (10.00 AM to 4.15 PM), Sunday and Monday (8.00 PM to 1.30 PM), Wednessday (10.00 AM to 4.15 PM), and Friday (9.00 AM to 5.45 PM)
+* **Office Hours:** * **Saturday:** 10:00 AM to 4:15 PM
+  * **Sunday & Monday:** 8:00 PM to 1:30 PM *(Note: Evening hours)*
+  * **Wednesday:** 10:00 AM to 4:15 PM
+  * **Friday:** 9:00 AM to 5:45 PM
 * **Location:** Faculty Block, Department of CSE, IIUC Campus
 
 ### 📚 Teaching & Mentorship
 * **Academic Advising:** Students assigned to me for academic advising can visit during office hours for course registration, career counseling, or thesis/project discussions.
-* **Research Supervision:** If you are an undergraduate or postgraduate student interested in conducting your thesis work in Computer Vision, Bioinformatics, Pattern Recognition, HCI or Gait Recognition, please review my research topics below and send me an email with your CV.
+* **Research Supervision:** If you are an undergraduate or postgraduate student interested in conducting your thesis work in Computer Vision, Bioinformatics, Pattern Recognition, HCI, or Gait Recognition, please review my research topics below and send me an email with your CV.
 
 ---
 
