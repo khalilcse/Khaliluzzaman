@@ -1,8 +1,6 @@
-# Khaliluzzaman
 # Dr. Md. Khaliluzzaman,
 **Associate Professor** Department of Computer Science and Engineering (CSE)  
 International Islamic University Chittagong (IIUC)  
-
 📧 khalil@iiuc.ac.bd | 📍 Office: Room# 406, Department of CSE (Main building), IIUC, Kumira, Chattogram, Bangladesh
 
 ---
